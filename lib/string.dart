@@ -1,6 +1,33 @@
 void main() {
 
+  
 
+  //contoh penggunaan tipe data di dart switch case
+  // int pos =  10;
+  // switch (pos) {
+  //   case 10:
+  //     print ('awalan');
+  //     break;
+  //   case 11:
+  //     print ('pertengahan');
+  //     break;
+  //   case 12:
+  //     print ('akhir');
+  //     break;
+  //   default:
+  //     print ('tidak ada');
+  // } 
+
+  //contoh penggunaan tipe data di dart list dan pengecekan isNotEmpty
+  // List data = [1,2,3,4,5];
+  // if (data.isNotEmpty){
+  //   print('data ada isinya lah');
+  //   print(data);
+  //   data.clear();
+  // }else{
+  //   print('data kosong');
+  // }
+  // print(data);
 
   //contoh penggunaan tipe data di dart operator aritmatika dan tipe data pengecekan
   // int jumlah = 10;
