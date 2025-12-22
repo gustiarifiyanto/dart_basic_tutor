@@ -1,4 +1,26 @@
 void main() {
+
+
+
+  //contoh penggunaan tipe data di dart operator aritmatika dan tipe data pengecekan
+  // int jumlah = 10;
+  // jumlah = 20*jumlah;
+  // print (jumlah is String);
+  
+  // if (jumlah > 100) {
+  //   print('jumlah lebih dari seratus');
+  // }else{
+  //   print('jumlah kurang dari seratus');
+  // }
+
+  //null safety (type data yang bisa null)
+  // String? nama;
+  // print (nama);
+  // nama = 'gusti';
+  // print(nama);
+  
+  //---------------------------------
+
   //var (type data yang tidak bisa diganti)
   // var data = 'ini data var';
   // data = 'ini sama aja';
