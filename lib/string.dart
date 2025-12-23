@@ -5,14 +5,13 @@ import 'package:intl/intl.dart';
 // }
 
 // contoh penggunaan enum di dart
-//  enum StatusLevel{
-//     easy,
-//     medium,
-//     hard,
-//   }
+enum StatusLevel {
+  easy,
+  medium,
+  hard,
+}
 
 void main() {
-
   //  final now = DateTime.now();
   //   print(DateFormat('yyyy/MM/dd hh:mm').format(now));
 
@@ -30,7 +29,6 @@ void main() {
   //     print('level susah');
   //     break;
   // }
- 
 
   // contoh penggunaan set di dart
   // var setBuah=<String>{};
@@ -46,7 +44,7 @@ void main() {
   // };
 
   // print(anon('_mia'));
- 
+
   // contoh penggunaan tipe data di dart perulangan for in
   // List <String> nama = ['gusti','mia','budi'];
   // for (String nama in nama){
@@ -69,12 +67,11 @@ void main() {
   //   i++;
   // }
 
-
   //contoh penggunaan tipe data di dart perulangan for
   // for (int i = 0; i < 10; i++) {
   //   print (i);
   // }
-  
+
   //contoh penggunaan tipe data di dart switch case
   // int pos =  10;
   // switch (pos) {
@@ -176,4 +173,3 @@ void main() {
   // double myd = 2.33;
   // print(myd);
 }
-
