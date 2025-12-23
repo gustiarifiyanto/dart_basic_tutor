@@ -1,7 +1,33 @@
 void main() {
-
   
+  // contoh penggunaan tipe data di dart perulangan for in
+  // List <String> nama = ['gusti','mia','budi'];
+  // for (String nama in nama){
+  //   print(nama);
+  //}
 
+  // contoh penggunaan tipe data di dart perulangan do while
+  // int i = 0;
+
+  // do{
+  //   print('data $i');
+  //   i++;
+  // }while(i<10);
+
+  //contoh penggunaan tipe data di dart perulangan while
+  // int i = 0;
+
+  // while (i < 10) {
+  //   print(i);
+  //   i++;
+  // }
+
+
+  //contoh penggunaan tipe data di dart perulangan for
+  // for (int i = 0; i < 10; i++) {
+  //   print (i);
+  // }
+  
   //contoh penggunaan tipe data di dart switch case
   // int pos =  10;
   // switch (pos) {
@@ -16,7 +42,7 @@ void main() {
   //     break;
   //   default:
   //     print ('tidak ada');
-  // } 
+  // }
 
   //contoh penggunaan tipe data di dart list dan pengecekan isNotEmpty
   // List data = [1,2,3,4,5];
@@ -33,7 +59,7 @@ void main() {
   // int jumlah = 10;
   // jumlah = 20*jumlah;
   // print (jumlah is String);
-  
+
   // if (jumlah > 100) {
   //   print('jumlah lebih dari seratus');
   // }else{
@@ -45,19 +71,19 @@ void main() {
   // print (nama);
   // nama = 'gusti';
   // print(nama);
-  
+
   //---------------------------------
 
   //var (type data yang tidak bisa diganti)
   // var data = 'ini data var';
   // data = 'ini sama aja';
   // print (data);
-  
+
   //object (type data yang bisa diganti)
   // Object data ='ini data object';
   // data = 900;
   // print(data);
-  
+
   //dynamic (type data yang bisa diganti)
   // dynamic data = 'ini data dynamic';
   // data = 300;
@@ -70,15 +96,15 @@ void main() {
   //   'tiga':3
   // };
   // print(bebas);
-  
+
   //list string (typa data yang berurutan, bisa string maupun int)
   // List <String> nama = ['gusti','mia','budi'];
   // print(nama);
-  
+
   //list int (type daya yang berurutan, hanya int saja)
   // List data = [1,2,3,4,5];
   // print(data);
-  
+
   //boolean (type data true or false)
   // bool istrue = true;
   // print(istrue);
