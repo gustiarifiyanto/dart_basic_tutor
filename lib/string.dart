@@ -1,5 +1,50 @@
+
+// contoh fungsi dengan tipe data boolean
+// bool genap(int value) {
+//   return value % 2 == 0;
+// }
+
+// contoh penggunaan enum di dart
+//  enum StatusLevel{
+//     easy,
+//     medium,
+//     hard,
+//   }
+
 void main() {
-  
+
+
+  // contoh penggunaan fungsi dengan tipe data boolean
+  // StatusLevel status = StatusLevel.easy;
+
+  // switch (status) {
+  //   case StatusLevel.easy:
+  //     print('level mudah');
+  //     break;
+  //     case StatusLevel.medium:
+  //     print('level sedang');
+  //     break;
+  //     case StatusLevel.hard:
+  //     print('level susah');
+  //     break;
+  // }
+ 
+
+  // contoh penggunaan set di dart
+  // var setBuah=<String>{};
+  // setBuah.add('semangka');
+  // setBuah.add('semangka');
+  // print(setBuah);
+
+  // contoh penggunaan fungsi dengan tipe data boolean
+  // var anon = (String nickname){
+  //   var myName = 'gusti';
+  //   myName += nickname;
+  //   return myName;
+  // };
+
+  // print(anon('_mia'));
+ 
   // contoh penggunaan tipe data di dart perulangan for in
   // List <String> nama = ['gusti','mia','budi'];
   // for (String nama in nama){
