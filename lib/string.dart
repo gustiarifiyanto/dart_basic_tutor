@@ -1,4 +1,4 @@
-
+import 'package:intl/intl.dart';
 // contoh fungsi dengan tipe data boolean
 // bool genap(int value) {
 //   return value % 2 == 0;
@@ -13,6 +13,8 @@
 
 void main() {
 
+  //  final now = DateTime.now();
+  //   print(DateFormat('yyyy/MM/dd hh:mm').format(now));
 
   // contoh penggunaan fungsi dengan tipe data boolean
   // StatusLevel status = StatusLevel.easy;
@@ -174,3 +176,4 @@ void main() {
   // double myd = 2.33;
   // print(myd);
 }
+
