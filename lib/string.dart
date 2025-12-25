@@ -1,4 +1,3 @@
-import 'package:intl/intl.dart';
 // contoh fungsi dengan tipe data boolean
 // bool genap(int value) {
 //   return value % 2 == 0;
